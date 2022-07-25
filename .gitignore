@@ -3,6 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+Config/HoloLens
 .vscode
 .vs
 *.VC.db
